@@ -1,0 +1,88 @@
+body{
+margin: 10px;
+padding: 30px;
+}
+.contenedor{
+    display: flex;
+    flex-wrap: wrap;
+    gap: 50px;
+    padding: 20px;
+    justify-content: center;
+}
+.caja{
+    width: 350px;
+    height: 250px;
+    display: flex;
+    align-items: center;
+    justify-content: center;
+    border-radius: 10px;
+    box-shadow: 3px 3px 0 2px;
+
+}
+img{
+    border-radius: 10px;
+    position: relative;
+}
+.uno{
+    background-image: url(/imagenes/a.jpg);
+}
+.dos{
+    background-image: url(/imagenes/b.jpg);
+}
+.tres{
+    background-image: url(/imagenes/c.jpg);
+}
+.cuatro{
+    background-image: url(imagenes/d.jpg);
+}
+.cinco{
+    background-image: url(/imagenes/e.jpg);
+}
+.seis{
+    background-image: url(/imagenes/f.jpg);
+}
+.siete{
+    background-image: url(/imagenes/g.jpg);
+}
+.ocho{
+    background-image: url(/imagenes/h.jpg);
+}
+.nueve{
+    background-image: url(/imagenes/i.jpg);
+}
+.diez{
+    background-image: url(/imagenes/j.jpg);
+}
+.once{
+    background-image: url(/imagenes/k.jpg);
+}
+.doce{
+    background-image: url(/imagenes/l.jpg);
+}
+.trece{
+    background-image: url(/imagenes/m.jpg);
+}
+.catorce{
+    background-image: url(/imagenes/n.jpg);
+}
+.quince{
+    background-image: url(/imagenes/o.jpg);
+}
+.a{
+    background-image: url(/imagenes/p.jpg);
+}
+.b{
+    background-image: url(/imagenes/q.jpg);
+}
+.c{
+    background-image: url(/imagenes/r.jpg);
+}
+.d{
+    background-image: url(/imagenes/s.jpg);
+}
+.e{
+    background-image: url(/imagenes/t.jpg);
+}
+@media (max-width:600px){
+    
+}
